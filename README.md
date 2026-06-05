@@ -20,7 +20,7 @@ This project generates meaningful captions for images using Deep Learning techni
 - Jupyter Notebook
 
 ## Dataset
-This project uses the :contentReference[oaicite:0]{index=0} containing thousands of images with multiple captions for training and evaluation.
+This project uses the Flickr8k Dataset, which contains thousands of images with multiple human-written captions for training and evaluation.
 
 ## Model Architecture
 1. Image preprocessing
